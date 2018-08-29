@@ -1,0 +1,61 @@
+#header{
+  background:url("./images/h1.jpg");
+  font-size: 90px !important;
+  background-repeat: none;
+}
+
+#header h1{
+  font-size: 90px !important;
+  font-weight: 600;
+  font-family: 'Josefin Sans', sans-serif;
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#header .container{
+  line-height: 200px;
+}
+
+.content{
+	width:100%;
+	height:80%;
+	background-color:#FFFACD;
+}
+
+.navbar{
+  border-radius: 0px !important;
+  margin-bottom: 0px !important;
+  background: red !important;
+}
+
+.navigate
+{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#heading-name
+{	font-family: 'Josefin Sans', sans-serif;
+	margin-top: 20px;
+	font-size:90px;
+
+	
+	
+}
+#formhead
+{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align:center;
+	font-size:40px;
+}
+#tm
+{
+	font-size:50px;	
+}
+.list
+{
+ display: block;
+    width: 60px;
+}
